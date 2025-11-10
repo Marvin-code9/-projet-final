@@ -18,7 +18,8 @@ et **les retombées économiques régionales**.
 - **Power BI** : modélisation, DAX, visualisation et storytelling  
 - **Python (Pandas, Matplotlib)** : Scraping, exploration, préparation, nettoyage, fusion et corrélation des données météo ↔ tourisme  
 - **Excel** : Première lecture 
-
+- **SQL** : exploration et préparation des données
+  
 ---
 
 ## Données principales
